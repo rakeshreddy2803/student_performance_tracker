@@ -1,0 +1,8 @@
+flask==2.3.3
+pandas==2.3.3
+numpy==1.26.4
+scikit-learn==1.7.0
+# catboost==1.2.8
+# xgboost==1.7.6
+dill==0.3.7
+gunicorn==21.2.0
